@@ -4,6 +4,9 @@ on: workflow_dispatch
 # on:
 #   schedule:
 #     - cron: "30 5,17 * * *"
+on:
+  schedule:
+    - cron: "15,30,45 16,17 * * *"
 
 jobs:
   build:
