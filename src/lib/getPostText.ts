@@ -11,8 +11,8 @@ export default async function getPostText() {
 
   // get rid of empty strings
   array = array.filter(function(n){ return n.length > 0});
-  // get rid of headers e.g. Chapter
-  array = array.filter(function(n){ return !n.startsWith("Chapter")});
+  // get rid of headers e.g. Chapter. use '#' to identify these
+  array = array.filter(function(n){ return !n.startsWith("#")});
   
   // choose one of the lines...
   var x = Math.floor(Math.random() * array.length);
