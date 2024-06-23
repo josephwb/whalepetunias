@@ -1,6 +1,6 @@
 name: "Post to Bluesky"
 
-#on: workflow_dispatch
+on: workflow_dispatch
 
 # run jobs at 15,30, and 45 minutes of 20:00 and 21:00
 #on:
