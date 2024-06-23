@@ -1,6 +1,6 @@
 name: "Post to Bluesky"
 
-on: workflow_dispatch
+#on: workflow_dispatch
 
 # run jobs at 15,30, and 45 minutes of 20:00 and 21:00
 #on:
@@ -8,9 +8,9 @@ on: workflow_dispatch
 #    - cron: "15,30,45 20,21 * * *"
 
 # run jobs on the half hour, every 2 hours
-#on:
-#  schedule:
-#    - cron: "*/30 */2 * * *"
+on:
+  schedule:
+    - cron: "*/30 */2 * * *"
 
 jobs:
   build:
