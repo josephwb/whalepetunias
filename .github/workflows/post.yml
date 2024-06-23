@@ -10,7 +10,7 @@ name: "Post to Bluesky"
 # run jobs on the half hour, every 2 hours
 on:
   schedule:
-    - cron: "*/30 */2 * * *"
+    - cron: "30 */2 * * *"
 
 jobs:
   build:
