@@ -1,6 +1,12 @@
-# Build your own Bluesky bot 🦋
+# Hitchhiker's Guide To The Galaxy Bluesky bot 🦋
 
-This is a template repo for building [Bluesky](https://bsky.app/) bots that post on their own schedule. It uses [TypeScript](https://www.typescriptlang.org/) to build the bot and [GitHub Actions](https://docs.github.com/en/actions) to schedule the posts.
+This repo contains code and content for regularly posting random lines from the 5 Hitchhiker's Guide To The Galaxy books by Douglas Adams to a dedicated [Bluesky account](https://bsky.app/profile/whalepetunias.bsky.social). The bot is inspired by the analogous [Moby Dick bot](https://bsky.app/profile/mobydickatsea.bsky.social), and is built from [template code](https://github.com/philnash/bsky-bot) provided by [@philnash](https://github.com/philnash).
+
+The bot is written in [TypeScript](https://www.typescriptlang.org/), and uses [GitHub Actions](https://docs.github.com/en/actions) (in conjunction with `cron`) to schedule the posts. Content is stored in the imaginatively named file [text.txt](https://github.com/josephwb/whalepetunians/blob/main/text.txt). Processing the content text is handled by the file [getPostText.ts](https://github.com/josephwb/whalepetunians/blob/main/src/lib/getPostText.ts).
+
+---
+
+Below are the original instructions by [@philnas](https://github.com/philnash) provided with the [template code](https://github.com/philnash/bsky-bot):
 
 * [How to use](#how-to-use)
   * [Things you will need](#things-you-will-need)
@@ -21,9 +27,7 @@ This is a template repo for building [Bluesky](https://bsky.app/) bots that post
 
 #### A Bluesky account
 
-To use this repo you will need a [Bluesky account](https://bsky.app/). Currently Bluesky is invite only and you can [sign up for an invite here](https://bsky.app/).
-
-Once you have an account for your bot, you will need to know your bot's handle and password (I recommend using an App Password, which you can create under your account's settings).
+To use this repo you will need a [Bluesky account](https://bsky.app/).
 
 #### Node.js
 
