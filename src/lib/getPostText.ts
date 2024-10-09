@@ -20,8 +20,16 @@ export default async function getPostText() {
   var line = array[x];
   
   // troubleshooting stats
-  console.log(array.length);
-  console.log(x);
+  console.log("----------------------")
+  console.log("STATS (POST-FILTERING)")
+  console.log("----------------------")
+  console.log("array.length = " + array.length);
+  console.log("index = " + x);
+  console.log("line.length = " + line.length);
+  if (line.length > 300) {
+    console.log("ERROR: line.length > 300!")
+  }
+  console.log("pos = " + line + "\n");
   //console.log(array);
 
   // implement a (while) check to ensure strings are >= 300 characters?
