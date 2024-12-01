@@ -9,6 +9,9 @@
 # Lines beginning with any number of '#' are used for organizational purposes only; they (and empty lines) are excised before picking the random line.
 # Lines beginning with '##' are book titles
 # Lines beginning with '#' are section (e.g., chapter) titles
+# Lines beginning with '#########################################' separate books
+
+# Ultmately there will be a reverse search option to give the book/chapter position of the line chosen
 
 
 #########################################
