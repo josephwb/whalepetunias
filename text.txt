@@ -17,10 +17,10 @@
 #########################################
 
 
-## THE HITCHHIKER'S GUIDE TO THE GALAXY
+## THE HITCHHIKER'S GUIDE TO THE GALAXY ##
 
 
-# Preface
+# Preface #
 
 
 Far out in the uncharted backwaters of the unfashionable end of the western spiral arm of the Galaxy lies a small unregarded yellow sun.
@@ -40,7 +40,7 @@ Nevertheless, a wholly remarkable book.
 But the story of this terrible, stupid Thursday, the story of its extraordinary consequences, and the story of how these consequences are inextricably intertwined with this remarkable book begins very simply. It begins with a house.
 
 
-# Chapter 1
+# Chapter 1 #
 
 
 Not a remarkable house by any means — it was about thirty years old, squattish, squarish, made of brick, and had four windows set in the front of a size and proportion which more or less exactly failed to please the eye.
@@ -112,7 +112,7 @@ As soon as Mr. Prosser realized that he was substantially the loser after all, i
 Arthur remained very worried.
 
 
-# Chapter 2
+# Chapter 2 #
 
 
 the effect of a Pan Galactic Gargle Blaster is like having your brains smashed out by a slice of lemon wrapped round a large gold brick.
@@ -136,7 +136,7 @@ Arthur gave the rest of the pub another wan smile. The rest of the pub frowned a
 "This must be Thursday," said Arthur musing to himself, sinking low over his beer, "I never could get the hang of Thursdays."
 
 
-# Chapter 3
+# Chapter 3 #
 
 
 On this particular Thursday, something was moving quietly through the ionosphere many miles above the surface of the planet; several somethings in fact, several dozen huge yellow chunky slablike somethings, huge as office buildings, silent as birds.
@@ -174,7 +174,7 @@ Uncomprehending terror settled on the watching people of Earth.
 The Vogon Constructor fleet coasted away into the inky starry void.
 
 
-# Chapter 4
+# Chapter 4 #
 
 
 It was for the sake of this day that he had first decided to run for the Presidency, a decision which had sent waves of astonishment throughout the Imperial Galaxy. Zaphod Beeblebrox? President? Not the Zaphod Beeblebrox? Not the President?
@@ -196,7 +196,7 @@ The Damogran Frond Crested Eagle had heard of the notion of survival of the spec
 "That is really amazing," he said. "That really is truly amazing. That is so amazingly amazing I think I'd like to steal it."
 
 
-# Chapter 5
+# Chapter 5 #
 
 
 Prostetnic Vogon Jeltz was a fairly typical Vogon in that he was thoroughly vile. Also, he did not like hitchhikers.
@@ -220,7 +220,7 @@ Prostetnic Vogon Jeltz was a fairly typical Vogon in that he was thoroughly vile
 "You just come along with me and have a good time. The Galaxy's a fun place. You'll need to have this fish in your ear."
 
 
-# Chapter 6
+# Chapter 6 #
 
 
 "Howl howl gargle howl gargle howl howl howl gargle howl gargle howl howl gargle gargle howl gargle gargle gargle howl slurrp uuuurgh should have a good time."
@@ -244,7 +244,7 @@ Prostetnic Vogon Jeltz was a fairly typical Vogon in that he was thoroughly vile
 "If we're unlucky," said Ford grimly, "the captain might be serious in his threat that he's going to read us some of his poetry first..."
 
 
-# Chapter 7
+# Chapter 7 #
 
 
 Vogon poetry is of course the third worst in the Universe.
@@ -286,7 +286,7 @@ Arthur stared round him wildly.
 "Da da da dum! Doesn't that stir anything in you?"
 
 
-# Chapter 8
+# Chapter 8 #
 
 
 "Space," it says, "is big. Really big. You just won't believe how vastly hugely mindboggingly big it is. I mean you may think it's a long way down the road to the chemist, but that's just peanuts to space. Listen..." and so on.
@@ -294,7 +294,7 @@ Arthur stared round him wildly.
 However it goes on to say that what with space being the mind boggling size it is the chances of getting picked up by another ship within those thirty seconds are two to the power of two hundred and sixty-seven thousand seven hundred and nine to one against.
 
 
-# Chapter 9
+# Chapter 9 #
 
 
 A hole had just appeared in the Galaxy. It was exactly a nothingth of a second long, a nothingth of an inch wide, and quite a lot of million light years from end to end.
@@ -314,7 +314,7 @@ On the pavement lay Ford Prefect and Arthur Dent gulping like half-spent fish.
 "Ford!" he said, "there's an infinite number of monkeys outside who want to talk to us about this script for Hamlet they've worked out."
 
 
-# Chapter 10
+# Chapter 10 #
 
 
 The Infinite Improbability Drive is a wonderful new method of crossing vast interstellar distances in a mere nothingth of a second, without all that tedious mucking about in hyperspace.
@@ -324,7 +324,7 @@ Many respectable physicists said that they weren't going to stand for this — p
 It startled him even more when just after he was awarded the Galactic Institute's Prize for Extreme Cleverness he got lynched by a rampaging mob of respectable physicists who had finally realized that the one thing they really couldn't stand was a smartass.
 
 
-# Chapter 11
+# Chapter 11 #
 
 
 In one corner a robot sat humped, its gleaming brushed steel head hanging loosely between its gleaming brushed steel knees.
@@ -376,7 +376,7 @@ The Encyclopaedia Galactica defines a robot as a mechanical apparatus designed t
 Ford stared at him. "Did that robot say Zaphod Beeblebrox?" he said.
 
 
-# Chapter 12
+# Chapter 12 #
 
 
 "And the question everyone's asking is... has the big Z finally flipped?"
@@ -394,7 +394,7 @@ Trillian punched up the figures. They showed two-to-the power-of-Infinity-minus-
 "I don't know," said Trillian, "but those aliens — they're on the way up to the bridge with that wretched robot. Can we pick them up on any monitor cameras?"
 
 
-# Chapter 13
+# Chapter 13 #
 
 
 Marvin trudged on down the corridor, still moaning.
@@ -432,7 +432,7 @@ Ford was not going to be outcooled.
 "Trillian," he said, "is this sort of thing going to happen every time we use the Improbability drive?" "Very probably, I'm afraid," she said.
 
 
-# Chapter 14
+# Chapter 14 #
 
 
 crew of four were ill at ease knowing that they had been brought together not of their own volition or by simple coincidence, but by some curious principle of physics — as if relationships between people were susceptible to the same laws that governed the relationships between atoms and molecules
@@ -450,7 +450,7 @@ Zaphod laughed. He was clearly very excited about something, almost childishly s
 "That..." said Zaphod, "is the most improbable planet that ever existed."
 
 
-# Chapter 15
+# Chapter 15 #
 
 
 Far back in the mists of ancient time, in the great and glorious days of the former Galactic Empire, life was wild, rich and largely tax free.
@@ -466,7 +466,7 @@ The home of this industry was the planet Magrathea, where hyperspatial engineers
 In these enlightened days of course, no one believes a word of it.
 
 
-# Chapter 16
+# Chapter 16 #
 
 
 "Magrathea is a myth, a fairy story, it's what parents tell their kids about at night if they want them to grow up to become economists, it's..."
@@ -490,7 +490,7 @@ One of Zaphod's heads looked away. The other one looked round to see what the fi
 Stress and nervous tension are now serious social problems in all parts of the Galaxy
 
 
-# Chapter 17
+# Chapter 17 #
 
 
 He had found a Nutri-Matic machine which had provided him with a plastic cup filled with a liquid that was almost, but not quite, entirely unlike tea.
@@ -512,7 +512,7 @@ The two missiles loomed massively on the screens as they thundered towards the s
 "This is it," said Arthur watching them. "We are now quite definitely going to die aren't we?"
 
 
-# Chapter 18
+# Chapter 18 #
 
 
 Relaxing in a wickerwork sun chair, Zaphod Beeblebrox said, "What the hell happened?"
@@ -532,7 +532,7 @@ And the rest, after a sudden wet thud, was silence.
 Curiously enough, the only thing that went through the mind of the bowl of petunias as it fell was Oh no, not again. Many people have speculated that if we knew exactly why the bowl of petunias had thought that we would know a lot more about the nature of the universe than we do now.
 
 
-# Chapter 19
+# Chapter 19 #
 
 
 "Are we taking this robot with us?" said Ford, looking with distaste at Marvin who was standing in an awkward hunched posture in the corner under a small palm tree.
@@ -552,7 +552,7 @@ It is possible that her remark would have commanded greater attention had it bee
 Ford carried on counting quietly. This is about the most aggressive thing you can do to a computer, the equivalent of going up to a human being and saying Blood... blood... blood... blood...
 
 
-# Chapter 20
+# Chapter 20 #
 
 
 Five figures wandered slowly over the blighted land. Bits of it were dullish grey, bits of it dullish brown, the rest of it rather less interesting to look at.
@@ -582,7 +582,7 @@ Ford nodded.
 "I'll tell you about it later," choked Zaphod as all three passed out.
 
 
-# Chapter 21
+# Chapter 21 #
 
 
 On the surface of Magrathea Arthur wandered about moodily.
@@ -606,7 +606,7 @@ He woke the robot up because even a manically depressed robot is better to talk 
 "Don't blame you," said Marvin and counted five hundred and ninety-seven thousand million sheep before falling asleep again a second later.
 
 
-# Chapter 22
+# Chapter 22 #
 
 
 The man looked at Arthur, sadly it seemed.
@@ -628,7 +628,7 @@ Arthur blinked at him.
 "My name?" said the old man, and the same distant sadness came into his face again. He paused. "My name," he said, "... is Slartibartfast."
 
 
-# Chapter 23
+# Chapter 23 #
 
 
 It is an important and popular fact that things are not always what they seem.
@@ -636,7 +636,7 @@ It is an important and popular fact that things are not always what they seem.
 The last ever dolphin message was misinterpreted as a surprisingly sophisticated attempt to do a double-backwards-somersault through a hoop whilst whistling the "Star Sprangled Banner", but in fact the message was this: So long and thanks for all the fish.
 
 
-# Chapter 24
+# Chapter 24 #
 
 
 He closed his eyes in terror.
@@ -678,7 +678,7 @@ Part of his brain told him that he knew perfectly well what he was looking at an
 "Time," said Arthur weakly, "is not currently one of my problems."
 
 
-# Chapter 25
+# Chapter 25 #
 
 
 On the day of the Great On-Turning two soberly dressed programmers with brief cases arrived and were shown discreetly into the office.
@@ -727,10 +727,10 @@ Scarcely pausing for breath, Vroomfondel shouted, "We don't demand solid facts! 
 "Bloody hell," said Majikthise, "now that is what I call thinking. Here Vroomfondel, why do we never think of things like that?"
 
 
-# Chapter 26
+# Chapter 26 #
 
 
-# Chapter 27
+# Chapter 27 #
 
 
 Slartibartfast's study was a total mess, like the results of an explosion in a public library.
@@ -758,7 +758,7 @@ There was a moment's expectant pause whilst panels slowly came to life on the fr
 "Forty-two," said Deep Thought, with infinite majesty and calm.
 
 
-# Chapter 28
+# Chapter 28 #
 
 
 "We're going to get lynched aren't we?" he whispered.
@@ -780,7 +780,7 @@ There was a moment's expectant pause whilst panels slowly came to life on the fr
 Phouchg gaped at Deep Thought.
 
 
-# Chapter 29
+# Chapter 29 #
 
 
 "Zaphod! Wake up!"
@@ -810,7 +810,7 @@ Zaphod shrugged.
 "The mice will see you now," he said.
 
 
-# Chapter 30
+# Chapter 30 #
 
 
 "Deep Thought designed the Earth, we built it and you lived on it."
@@ -836,7 +836,7 @@ Zaphod shrugged.
 "I seem to be having tremendous difficulty with my lifestyle," he muttered to himself.
 
 
-# Chapter 31
+# Chapter 31 #
 
 
 It is of course well known that careless talk costs lives, but the full scale of the problem is not always appreciated.
@@ -892,7 +892,7 @@ So — Arthur was about to have his head cut open, Trillian was unable to help h
 All in all it was extremely fortunate that at that moment every alarm on the planet burst into an earsplitting din.
 
 
-# Chapter 32
+# Chapter 32 #
 
 
 "Damnation," muttered Frankie mouse, "all that fuss over two pounds of Earthling brain."
@@ -932,7 +932,7 @@ Ford's eyes popped halfway out of their sockets. "Who are these guys?" he said. 
 The heat and noise was quite fantastic. Slowly, the computer bank was beginning to disintegrate. The front had almost all melted away, and thick rivulets of molten metal were winding their way back towards where they were squatting. They huddled further back and waited for the end.
 
 
-# Chapter 33
+# Chapter 33 #
 
 
 But the end never came, at least not then.
@@ -946,7 +946,7 @@ This struck Ford as being extremely odd.
 "Let's get shot out of this hole," said Zaphod. "If whatever I'm supposed to be looking for is here, I don't want it." He grabbed the second Kill-O-Zap gun, blasted a perfectly harmless accounting computer and rushed out into the corridor, followed by the others.
 
 
-# Chapter 34
+# Chapter 34 #
 
 
 R is a velocity measure, defined as a reasonable speed of travel that is consistent with health, mental wellbeing and not being more than say five minutes late.
@@ -966,7 +966,7 @@ In his experience the Universe simply didn't work like that.
 "I got very bored and depressed, so I went and plugged myself in to its external computer feed. I talked to the computer at great length and explained my view of the Universe to it," said Marvin. "And what happened?" pressed Ford. "It committed suicide," said Marvin
 
 
-# Chapter 35
+# Chapter 35 #
 
 
 That night, as the Heart of Gold was busy putting a few light years between itself and the Horsehead Nebula, Zaphod lounged under the small palm tree on the bridge trying to bang his brain into shape with massive Pan Galactic Gargle Blasters
@@ -977,17 +977,17 @@ That night, as the Heart of Gold was busy putting a few light years between itse
 
 
 
-##########################################
+#########################################
 
 
 
-## THE RESTAURANT AT THE END OF THE UNIVERSE
+## THE RESTAURANT AT THE END OF THE UNIVERSE ##
 
 
 There is a theory which states that if ever anyone discovers exactly what the Universe is for and why it is here, it will instantly disappear and be replaced by something even more bizarre and inexplicable. There is another theory which states that this has already happened.
 
 
-# Chapter 1
+# Chapter 1 #
 
 
 In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move.
@@ -1003,7 +1003,7 @@ Arthur Dent escaped at the very last moment because an old friend of his, Ford P
 And, less than half a million miles from where their starship is drifting lazily through the inky blackness of space, a Vogon ship is moving slowly towards them.
 
 
-# Chapter 2
+# Chapter 2 #
 
 
 Uglier things have been spotted in the skies, but not by reliable witnesses.
@@ -1053,7 +1053,7 @@ The protruding upper halves of the letters now appear, in the local language, to
 "You want the taste of dried leaves boiled in water?" "Er, yes. With milk."
 
 
-# Chapter 3
+# Chapter 3 #
 
 
 "Does anyone have a kettle?" Arthur asked as he walked on to the bridge
@@ -1093,13 +1093,13 @@ Ford nodded despondently.
 "Oh, and Zaphod?" "Er, yeah?" "If you ever find you need help again, you know, if you're in trouble, need a hand out of a tight corner..." "Yeah?" "Please don't hesitate to get lost."
 
 
-# Chapter 4
+# Chapter 4 #
 
 
 On the delivery plate of the Nutri-Matic Drink Synthesizer was a small tray, on which sat three bone china cups and saucers, a bone china jug of milk, a silver teapot full of the best tea Arthur had ever tasted, and a small printed note saying "Wait".
 
 
-# Chapter 5
+# Chapter 5 #
 
 
 Ursa Minor Beta is, some say, one of the most appalling places in the known Universe.
@@ -1121,7 +1121,7 @@ They were a double pair of Joo Janta 200 Super-Chromatic Peril Sensitive Sunglas
 He sat still and ignored the thought furiously. It nagged at him. He ignored it. It nagged at him. He ignored it. It nagged at him. He gave in to it. What the hell, he thought, go with the flow.
 
 
-# Chapter 6
+# Chapter 6 #
 
 
 "Hello? Yes? Megadodo Publications, home of the Hitchhiker's Guide to the Galaxy, the most totally remarkable book in the whole of the known Universe, can I help you?"
@@ -1185,7 +1185,7 @@ He walked across to the window and suddenly stumbled because at that moment his 
 "Frogstar Fighters!" muttered Zaphod, "Zarquon!"
 
 
-# Chapter 7
+# Chapter 7 #
 
 
 "Let me introduce myself," the man said, "My name is Roosta, and this is my towel."
@@ -1197,7 +1197,7 @@ He walked across to the window and suddenly stumbled because at that moment his 
 "What a depressingly stupid machine," said Marvin and trudged away.
 
 
-# Chapter 8
+# Chapter 8 #
 
 
 "So, do we just sit here, or what?" said Zaphod angrily, "what do these guys out here want?" "You, Beeblebrox," said Roosta, "they're going to take you to the Frogstar — the most totally evil world in the Galaxy."
@@ -1219,7 +1219,7 @@ The left-hand tower of the Hitchhiker's Guide to the Galaxy offices streaked thr
 "Phreeow!" admitted Zaphod, much impressed.
 
 
-# Chapter 9
+# Chapter 9 #
 
 
 The air around the second planet of the Frogstar system was stale and unwholesome.
@@ -1243,7 +1243,7 @@ Zaphod nodded. He took out his Peril Sensitive Sunglasses again.
 "I'll hum for you," said Gargravarr, "follow the humming."
 
 
-# Chapter 10
+# Chapter 10 #
 
 
 The Universe, as has been observed before, is an unsettlingly big place, a fact which for the sake of a quiet life most people tend to ignore.
@@ -1267,7 +1267,7 @@ At that moment another dismal scream rent the air and Zaphod shuddered.
 After five seconds there was a click, and the entire Universe was there in the box with him.
 
 
-# Chapter 11
+# Chapter 11 #
 
 
 The Total Perspective Vortex derives its picture of the whole Universe on the principle of extrapolated matter analyses.
@@ -1283,7 +1283,7 @@ To Trin Tragula's horror, the shock completely annihilated her brain; but to his
 Zaphod shrugged smugly. "It just told me what I knew all the time. I'm a really terrific and great guy. Didn't I tell you, baby, I'm Zaphod Beeblebrox!"
 
 
-# Chapter 12
+# Chapter 12 #
 
 
 The elation of his recent experience was still with him though. The whole Universe. He had seen the whole Universe stretching to infinity around him — everything. And with it had come the clear and extraordinary knowledge that he was the most important thing in it.
@@ -1301,7 +1301,7 @@ Zaphod shook his heads at him and burbled.
 He smiled the smile that Zaphod had wanted to hit and this time Zaphod hit it.
 
 
-# Chapter 13
+# Chapter 13 #
 
 
 "hi, guys, you must be so amazingly glad to see me you don't even find words to tell me what a cool frood I am."
@@ -1309,7 +1309,7 @@ He smiled the smile that Zaphod had wanted to hit and this time Zaphod hit it.
 "I know how you feel," said Zaphod, "I'm so great even I get tongue-tied talking to myself."
 
 
-# Chapter 14
+# Chapter 14 #
 
 
 A green blur watched them disapprovingly. It coughed. "Good evening, madam, gentlemen," it said, "do you have a reservation?"
@@ -1327,7 +1327,7 @@ In an extraordinary gesture which is pointless attempting to describe, Zaphod Be
 Zaphod grinned two manic grins, sauntered over to the bar and bought most of it.
 
 
-# Chapter 15
+# Chapter 15 #
 
 
 One of the major problems encountered in time travel is not that of accidentally becoming your own father or mother. There is no problem involved in becoming your own father or mother that a broadminded and well-adjusted family can't cope with.
@@ -1343,7 +1343,7 @@ This, many claim, is not merely impossible but clearly insane
 "If you've done six impossible things this morning, why not round it off with breakfast at Milliways, the Restaurant at the End of the Universe?"
 
 
-# Chapter 16
+# Chapter 16 #
 
 
 At the bar, Zaphod was rapidly becoming as tired as a newt. His heads knocked together and his smiles were coming out of synch. He was miserably happy.
@@ -1367,7 +1367,7 @@ A wild-skinned sky-gypsy approached them and played electric violin at them unti
 "I am Mr. Desiato's bodyguard," it went, "and I am responsible for his body, and I am not responsible for yours, so take it away before it gets damaged."
 
 
-# Chapter 17
+# Chapter 17 #
 
 
 The Hitchhiker's Guide to the Galaxy notes that Disaster Area, a plutonium rock band from the Gagrakacka Mind Zones, are generally held to be not only the loudest rock band in the Galaxy, but in fact the loudest noise of any kind at all.
@@ -1483,7 +1483,7 @@ In one movement Zaphod leapt to his feet, threw down the phone and wrote "Hotbla
 "Well," said Max beaming cheerfully at them, "it's too late to worry about whether you left the gas on now."
 
 
-# Chapter 18
+# Chapter 18 #
 
 
 A Sirius Cybernetics Corporation Happy Vertical People Transporter took them down deep into the substrata beneath the Restaurant. They were glad to see it had been vandalized and didn't try to make them happy as well as take them down.
@@ -1539,7 +1539,7 @@ Zarquon coughed. He peered round at the assembled gathering. The stars in his ey
 He seemed nervous of the expectant awed hush. He cleared his throat. "Er, how are we for time?" he said, "have I just got a min — " And so the Universe ended.
 
 
-# Chapter 19
+# Chapter 19 #
 
 
 One of the major selling point of that wholly remarkable travel book, the Hitchhiker's Guide to the Galaxy, apart from its relative cheapness and the fact that it has the words DON'T PANIC written in large friendly letters on its cover, is its compendious and occasionally accurate glossary.
@@ -1549,7 +1549,7 @@ However, not every one of them is inhabited. Therefore, there must be a finite n
 From this it follows that the population of the whole Universe is also zero, and that any people you may meet from time to time are merely the products of a deranged imagination.
 
 
-# Chapter 20
+# Chapter 20 #
 
 
 The Restaurant continued existing, but everything else had stopped.
@@ -1581,7 +1581,7 @@ Arthur took a deep breath without much enthusiasm.
 Zaphod shrugged. "Time is bunk," he said.
 
 
-# Chapter 21
+# Chapter 21 #
 
 
 Down on the dry, red world of Kakrafoon, in the middle of the vast Rudlit Desert, the stage technicians were testing the sound system.
@@ -1615,7 +1615,7 @@ Those­ — very few — who witnessed the event and survived swear that the who
 Many people spoke movingly of the healing powers of music. A few sceptical scientists examined the records of the events more closely, and claimed that they had discovered faint vestiges of a vast artificially induced Improbability Field drifting in from a nearby region of space.
 
 
-# Chapter 22
+# Chapter 22 #
 
 
 Arthur woke up and instantly regretted it.
@@ -1643,7 +1643,7 @@ Ford Prefect stared after them. "Joggers!" he hissed, as the sound of their feet
 The first thing that hit their eyes was what appeared to be a coffin. And the next four thousand nine hundred and ninety-nine things that hit their eyes were also coffins.
 
 
-# Chapter 23
+# Chapter 23 #
 
 
 On closer inspection the coffins seemed to be more like sarcophagi. They stood about waist high and were constructed of what appeared to be white marble, which is almost certainly what it was — something that only appeared to be white marble.
@@ -1667,7 +1667,7 @@ Ford and Arthur looked at the gun unhappily.
 "Out," he said. People who can supply that amount of fire power don't need to supply verbs as well. Ford and Arthur went out, closely followed by the wrong end of the Kill-O-Zap gun and the buttons.
 
 
-# Chapter 24
+# Chapter 24 #
 
 
 "Er, captain..." "Yes, Number One?" "Just heard a sort of report thingy from Number Two." "Oh, dear."
@@ -1733,13 +1733,13 @@ For a moment the Captain did not answer. He twisted round in his bath and gazed 
 Ford exploded. "You're a load of useless bloody loonies!" he shouted.
 
 
-# Chapter 25
+# Chapter 25 #
 
 
 which enabled the people of Golgafrincham to rid themselves of an entire useless third of their population. The other two-thirds stayed firmly at home and lived full, rich and happy lives until they were all suddenly wiped out by a virulent disease contracted from a dirty telephone.
 
 
-# Chapter 26
+# Chapter 26 #
 
 
 That night the ship crash-landed on to an utterly insignificant little green-blue planet which circled a small unregarded yellow sun in the uncharted backwaters of the unfashionable end of the Western spiral arm of the Galaxy.
@@ -1757,7 +1757,7 @@ Arthur looked at him as if he'd gone mad and, seeing nothing to indicate the con
 "We're in trouble," said Ford. "Oh," said Arthur. This sounded like month-old news to him.
 
 
-# Chapter 27
+# Chapter 27 #
 
 
 Zaphod opened some eyes and glowered at him.
@@ -1767,7 +1767,7 @@ Zaphod opened some eyes and glowered at him.
 "He's a very stupid man," said Zaphod, "who wants to meet the man who rules the Universe." "Ah," said Trillian taking the bottle from Zaphod and helping herself, "a social climber."
 
 
-# Chapter 28
+# Chapter 28 #
 
 
 To summarize: it is a well known fact, that those people who most want to rule people are, ipso facto, those least suited to do it.
@@ -1779,7 +1779,7 @@ To summarize the summary of the summary: people are a problem.
 And so this is the situation we find: a succession of Galactic Presidents who so much enjoy the fun and palaver of being in power that they very rarely notice that they're not.
 
 
-# Chapter 29
+# Chapter 29 #
 
 
 On a small obscure world somewhere in the middle of nowhere in particular — nowhere, that is, that could ever be found, since it is protected by a vast field of unprobability to which only six men in this galaxy have a key — it was raining.
@@ -1817,7 +1817,7 @@ He paused again. Sometimes he would pause for days, just to see what it was like
 "It merely pleases me to behave in a certain way to what appears to be a cat."
 
 
-# Chapter 30
+# Chapter 30 #
 
 
 One of the men, who had been standing slightly forward of the rest of the group and who might therefore have been their leader, stepped forward. His face was quiet and calm, almost serene. "Ugghhhuuggghhhrrrr uh uh ruh uurgh," he said quietly.
@@ -1839,7 +1839,7 @@ When the craving for company became too great they would know where to find it, 
 Ford Prefect began to use his Sub-Etha Sens-O-Matic more often again. Only once did he pick up a signal, but that was so faint and from such enormous distance that it depressed him more than the silence that had otherwise continued unbroken.
 
 
-# Chapter 31
+# Chapter 31 #
 
 
 His mouth started to speak, but his brain decided it hadn't got anything to say yet and shut it again. His brain then started to contend with the problem of what his eyes told it they were looking at, but in doing so relinquished control of the mouth which promptly fell open again.
@@ -1849,7 +1849,7 @@ The thing that had been causing all this neural upset was a network of shadows i
 It was an old face, thin and distinguished, careworn but not unkind. It was the face of the man who had won an award for designing the coastline they now knew themselves to be standing on.
 
 
-# Chapter 32
+# Chapter 32 #
 
 
 A thin whine filled the air. It whirled and howled through the trees upsetting the squirrels. A few birds flew off in disgust. The noise danced and skittered round the clearing. It whooped, it rasped, it generally offended.
@@ -1903,7 +1903,7 @@ He held the duck aloft and it got an appreciative round from the crowd.
 The crowd muttered to itself in annoyance. People as rich as they had suddenly become shouldn't be obliged to listen to this sort of gibberish. Perhaps they could tip the fellow a leaf or two and he would go away.
 
 
-# Chapter 33
+# Chapter 33 #
 
 
 It was not going well.
@@ -1927,7 +1927,7 @@ They looked over his shoulder. Their eyes popped. There amongst the jumble of le
 "Totally mad," he said, "utter nonsense. But we'll do it because it's brilliant nonsense."
 
 
-# Chapter 34
+# Chapter 34 #
 
 
 "Does it worry you that you don't talk any kind of sense?" asked Agda.
@@ -1945,10 +1945,10 @@ They looked over his shoulder. Their eyes popped. There amongst the jumble of le
 
 
 
-## LIFE, THE UNIVERSE AND EVERYTHING
+## LIFE, THE UNIVERSE AND EVERYTHING ##
 
 
-# Chapter 1
+# Chapter 1 #
 
 
 The regular early morning yell of horror was the sound of Arthur Dent waking up and suddenly remembering where he was.
@@ -1984,7 +1984,7 @@ He imagined for a moment his itinerary connecting up all the dots in the sky lik
 "Folfanga," it said. It beeped. "Fourth world of the Folfanga system," it continued. It beeped again. "Estimated journey time, three weeks," it continued further. It beeped again. "There to meet with a small slug," it beeped, "of the genus A-Rth-Urp-Hil-Ipdenu."
 
 
-# Chapter 2
+# Chapter 2 #
 
 
 He had just had a wonderful idea about how to cope with the terrible lonely isolation, the nightmares, the failure of all his attempts at horticulture, and the sheer futurelessness and futility of his life here on prehistoric Earth, which was that he would go mad.
@@ -2022,7 +2022,7 @@ Arthur felt happy. He was terribly pleased that the day was for once working out
 Important facts from Galactic history, number one: (reproduced from the Siderial Daily Mentioner's Book of popular Galactic History.) The night sky over the planet Krikkit is the least interesting sight in the entire Universe.
 
 
-# Chapter 3
+# Chapter 3 #
 
 
 It was a charming and delightful day at Lord's as Ford and Arthur tumbled haphazardly out of a space-time anomaly and hit the immaculate turf rather hard.
@@ -2103,7 +2103,7 @@ The most extraordinary thing about it was that it looked only partly like a spac
 Since this Galaxy began, vast civilizations have risen and fallen, risen and fallen, risen and fallen so often that it's quite tempting to think that life in the Galaxy must be: (a) something akin to seasick — space-sick, time sick, history sick or some such thing, and (b) stupid.
 
 
-# Chapter 4
+# Chapter 4 #
 
 
 Arthur lay in startled stillness on the acceleration couch. He wasn't certain whether he had just got space-sickness or religion.
@@ -2137,7 +2137,7 @@ The Universe could not possibly work like that, he thought, cannot possibly. Tha
 "Bistromathics," he said. "The most powerful computational force known to parascience."
 
 
-# Chapter 5
+# Chapter 5 #
 
 
 The Bistromatic Drive is a wonderful new method of crossing vast interstellar distances without all that dangerous mucking about with Improbability Factors.
@@ -2159,7 +2159,7 @@ They were never tested under laboratory conditions, of course, because they neve
 Numbers written on restaurant bills within the confines of restaurants do not follow the same mathematical laws as numbers written on any other pieces of paper in any other parts of the Universe.
 
 
-# Chapter 6
+# Chapter 6 #
 
 
 Arthur nodded wisely to himself. After a while he realized that this wasn't getting him anywhere and decided that he would say "what?" after all.
@@ -2171,7 +2171,7 @@ Arthur nodded again and looked round to Ford for help, but Ford was practising b
 "Strange but true. At least, I think it's strange," he added, "and I'm assured that it's true."
 
 
-# Chapter 7
+# Chapter 7 #
 
 
 The early morning's thinnest sliver of light appeared silently. Several billion trillion tons of superhot exploding hydrogen nuclei rose slowly above the horizon and managed to look small, cold and slightly damp.
@@ -2221,7 +2221,7 @@ The mattress flurred and glurried. It flolloped, gupped and willomied, doing thi
 Suddenly, a moment later, the robots were back again for another violent incident, and this time when they left, the mattress was alone in the swamp. He flolloped around in astonishment and alarm. He almost lurgled in fear.
 
 
-# Chapter 8
+# Chapter 8 #
 
 
 "These, then," said the figure, speaking from an immensely comfortable chair, "were the Krikkit Wars, the greatest devastation ever visited upon our Galaxy."
@@ -2233,7 +2233,7 @@ The three pillars stood out clearly now, three pillars topped with two cross pie
 He stared up into the sky. The sky, from one horizon to another, from east to west, from north to south, was utterly and completely black.
 
 
-# Chapter 9
+# Chapter 9 #
 
 
 Whirrr. "Thank you for making a simple door very happy." "Hope your diodes rot." "Thank you. Have a nice day."
@@ -2283,7 +2283,7 @@ A slightly pained expression seemed to cross the robot's totally expressionless 
 "No," said the robot. "We are going to shoot you." "Oh yeah?" said Zaphod, waggling his gun. "Yes," said the robot, and they shot him. Zaphod was so surprised that they had to shoot him again before he fell down.
 
 
-# Chapter 10
+# Chapter 10 #
 
 
 Arthur could almost imagine Paul McCartney sitting with his feet up by the fire on evening, humming it to Linda and wondering what to buy with the proceeds, and thinking probably Essex.
@@ -2331,7 +2331,7 @@ For a while they flew on, motionless against the starry sweep of the Galaxy, its
 On the way back they sang a number of tuneful and reflective songs on the subjects of peace, justice, morality, culture, sport, family life and the obliteration of all other life forms.
 
 
-# Chapter 11
+# Chapter 11 #
 
 
 "the whole population of Krikkit was transformed from being charming, delightful, intelligent..." "... if whimsical..." interpolated Arthur. "... ordinary people," said Slartibartfast, "into charming, delightful, intelligent..." "... whimsical..." "... manic xenophobes."
@@ -2339,7 +2339,7 @@ On the way back they sang a number of tuneful and reflective songs on the subjec
 "The idea of a Universe didn't fit into their world picture, so to speak. They simply couldn't cope with it. And so, charmingly, delightfully, intelligently, whimsically if you like, they decided to destroy it."
 
 
-# Chapter 12
+# Chapter 12 #
 
 
 "well, you know, they're just a bunch of real sweet guys, you know, who just happen to want to kill everybody. Hell, I feel the same way some mornings. Shit."
@@ -2363,7 +2363,7 @@ The solution was brilliant, and went like this: The planet of Krikkit was to be 
 The Lock would be on an asteroid which would slowly orbit the envelope. The key would be the symbol of the Galaxy — the Wikkit Gate.
 
 
-# Chapter 13
+# Chapter 13 #
 
 
 "a Krikkit warship which had been missing presumed destroyed turned out to be just missing after all. It appeared and tried to seize the Key."
@@ -2371,7 +2371,7 @@ The Lock would be on an asteroid which would slowly orbit the envelope. The key 
 "It's all right," she said in a voice which would have calmed the Big Bang down. "Apparently there was a short battle. The Key and the warship were disintegrated and blasted into the space-time continuum. Apparently they are lost for ever."
 
 
-# Chapter 14
+# Chapter 14 #
 
 
 "Listen. The time streams are now very polluted. There's a lot of muck floating about in them, flotsam and jetsam, and more and more of it is now being regurgitated into the physical world. Eddies in the space-time continuum, you see."
@@ -2397,7 +2397,7 @@ He paused to see if the matter was now cleared up. The freshly puzzled looks cla
 "I care about lots of things," said Slartibartfast, his voice trembling partly with annoyance, but partly also with uncertainty. "Such as?" "Well," said the old man, "life, the Universe. Everything, really. Fjords."
 
 
-# Chapter 15
+# Chapter 15 #
 
 
 Time travel is increasingly regarded as a menace.
@@ -2413,7 +2413,7 @@ Long after his death his poems were found and wondered over. News of them spread
 So a lot of history is now gone for ever. The Campaign for Real Timers claim that just as easy travel eroded the differences between one country and another, and between one world and another, so time travel is now eroding the differences between one age and another.
 
 
-# Chapter 16
+# Chapter 16 #
 
 
 Arthur materialized, and did so with all the customary staggering about and clasping at his throat, heart and various limbs which he still indulged himself in whenever he made any of these hateful and painful materializations that he was determined not to let himself get used to.
@@ -2513,7 +2513,7 @@ Agrajag blinked slowly in a kind of frozen logical horror. "You haven't been to 
 brought the strange monstrosity crashing down on top of the altar. Agrajag screamed again, thrashed wildly for a brief moment, and turned a wild eye on Arthur. "You know what you've done?" he gurgled painfully. "You've only gone and killed me again. I mean, what do you want from me, blood?"
 
 
-# Chapter 17
+# Chapter 17 #
 
 
 "but then anyone who has been to any of the higher dimensions will know that they're a pretty nasty heathen lot up there who should just be smashed and done in, and would be, too, if anyone could work out a way of firing missiles at right-angles to reality."
@@ -2527,7 +2527,7 @@ Anyone who even notices, let alone calls attention to, the curious but utter coi
 This is all for the best, because in the long run a good solid war is less psychologically damaging than a protracted game of Brockian Ultra-Cricket.
 
 
-# Chapter 18
+# Chapter 18 #
 
 
 The land began to slide, and he suddenly felt the force of the word "landslide" in a way which had never been apparent to him before. It had always just been a word to him, but now he was suddenly and horribly aware that sliding is a strange and sickening thing for land to do.
@@ -2561,7 +2561,7 @@ He felt the way he imagined an angel must feel during its celebrated dance on th
 Ten minutes later, drifting idly through a cloud, he got a large and extremely disreputable cocktail party in the small of the back.
 
 
-# Chapter 19
+# Chapter 19 #
 
 
 The longest and most destructive party ever held is now into its fourth generation, and still no one shows any signs of leaving. Somebody did once look at his watch, but that was eleven years ago, and there has been no follow-up.
@@ -2581,7 +2581,7 @@ Not only that, but the flying party had also managed to arm itself rather heavil
 It is one hell of a party. It is also one hell of a thing to get hit by in the small of the back.
 
 
-# Chapter 20
+# Chapter 20 #
 
 
 Arthur lay floundering in pain on a piece of ripped and dismembered reinforced concrete, flicked at by wisps of passing cloud and confused by the sounds of flabby merrymaking somewhere indistinctly behind him.
@@ -2595,7 +2595,7 @@ Nervously, he stood up and, suddenly, looking out over the edge, he felt nauseou
 "Where the zarking photon have you been?" hissed Ford, panic stricken.
 
 
-# Chapter 21
+# Chapter 21 #
 
 
 "Have you met Thor? He makes thunder." "Hello," said Arthur. "I expect that must be very interesting." "Hi," said Thor. "It is."
@@ -2621,7 +2621,7 @@ The man seemed to be dancing slightly to some rhythm other than any of the sever
 "What did you say?" "I didn't say anything. I was just about to ask what the silver..." "Oh, I thought you said 'wop'." "Said what?" "Wop."
 
 
-# Chapter 22
+# Chapter 22 #
 
 
 Very soon it would be time to gather up hats and coats and stagger blearily outside to find out what time of day it was, what time of year it was, and whether in any of this burnt and ravaged land there was a taxi going anywhere.
@@ -2645,7 +2645,7 @@ Thor looked at him with incredulity. Then a little wisp of smoke curled upwards 
 He unhooked the shaft of his hammer from his belt. He held it up in his hands to reveal the massive iron head. He thus cleared up any possible misunderstanding that he might merely have been carrying a telegraph pole around with him.
 
 
-# Chapter 23
+# Chapter 23 #
 
 
 "Well, so am I alive, aren't I?" retaliated Arthur, haggard with adventure and anger. His eyebrows were leaping up and down as if they wanted to punch each other.
@@ -2653,7 +2653,7 @@ He unhooked the shaft of his hammer from his belt. He held it up in his hands to
 The prevailing view seemed to be that his opinion was not worth a pair of fetid dingo's kidneys.
 
 
-# Chapter 24
+# Chapter 24 #
 
 
 It is a mistake to think you can solve any major problems just with potatoes.
@@ -2681,7 +2681,7 @@ It was a very, very small bomb which was simply a junction box in hyperspace tha
 they went on to find an entirely new way of blowing themselves up, which was a profound relief to everyone else in the Galaxy, particularly the Garfighters, the Stilettans and the potatoes.
 
 
-# Chapter 25
+# Chapter 25 #
 
 
 An extension of the ship's field enabled them to stand there, by once again exploiting the mind's predisposition to have tricks played on it: the problems of falling up off the tiny mass of the asteroid, or of not being able to breathe, simply became Somebody Else's.
@@ -2717,7 +2717,7 @@ The robots marched grimly and, it almost seemed, in a slightly disheartened mann
 Trillian and Ford ran hectically round and down the steep incline to the dark, still body of Zaphod Beeblebrox.
 
 
-# Chapter 26
+# Chapter 26 #
 
 
 "I don't know," said Zaphod, for what seemed to him like the thirty-seventh time, "they could have killed me, but they didn't. Maybe they just thought I was a kind of wonderful guy or something. I could understand that." The others silently registered their opinions of this theory.
@@ -2736,7 +2736,7 @@ Trillian and Ford ran hectically round and down the steep incline to the dark, s
 "I'm going down to Krikkit," she said.
 
 
-# Chapter 27
+# Chapter 27 #
 
 
 This time it was not an Informational Illusion. This was Krikkit itself and they were standing on it. Near them, behind the trees, stood the strange Italian restaurant which had brought these, their real bodies, to this, the real, present world of Krikkit.
@@ -2754,7 +2754,7 @@ There was a moment of pure fear, a frozen second before anyone fired again. And 
 They were surrounded by pale-faced Krikkiters and bathed in bobbing torch light. The captives stared at their captors, the captors stared at their captives. "Hello?" said one of the captors. "Excuse me, but are you... aliens?"
 
 
-# Chapter 28
+# Chapter 28 #
 
 
 Meanwhile, more millions of miles away than the mind can comfortably encompass, Zaphod Beeblebrox was throwing a mood again.
@@ -2768,7 +2768,7 @@ He fiddled with a book, and then tossed it away. It was the one he'd read before
 His ship made a blur of the Universe.
 
 
-# Chapter 29
+# Chapter 29 #
 
 
 "It's just," continued the Krikkiter uneasily, "something we heard about, probably nothing important. Well, I suppose we'd better kill you then."
@@ -2786,7 +2786,7 @@ Trillian slowly put her arms around the poor bewildered young Krikkiter and patt
 From somewhere at the back of the crowd a single voice started to sing a tune which would have enabled Paul McCartney, had he written it, to buy the world.
 
 
-# Chapter 30
+# Chapter 30 #
 
 
 Zaphod Beeblebrox crawled bravely along a tunnel, like the hell of a guy he was. He was very confused, but continued crawling doggedly anyway because he was that brave.
@@ -2806,7 +2806,7 @@ Zaphod did not want to tangle with them and, deciding that just as discretion wa
 "What was that noise?" It was the noise of Zaphod leaving with his head spinning.
 
 
-# Chapter 31
+# Chapter 31 #
 
 
 In a deep well of darkness a crippled robot sat. It had been silent in its metallic darkness for some time. It was cold and damp, but being a robot it was supposed not to be able to notice these things. With an enormous effort of will, however, it did manage to notice them.
@@ -2844,7 +2844,7 @@ Zaphod took a moment or two to find his way through this labyrinthine string of 
 The robot swung its battleclub. It hit the small white globe. The small white globe was the supernova bomb. It was a very, very small bomb which was designed to bring the entire Universe to an end. The supernova bomb flew through the air. It hit the back wall of the council chamber and dented it
 
 
-# Chapter 32
+# Chapter 32 #
 
 
 "Hactar!" called Trillian. "What are you up to?"
@@ -2884,7 +2884,7 @@ He had already had an argument with Slartibartfast on this matter, and eventuall
 "I think we should take these back," said Arthur holding up the bag containing the Ashes. "I feel that very strongly."
 
 
-# Chapter 33
+# Chapter 33 #
 
 
 One policeman was attempting to arrest Wowbagger the Infinitely Prolonged for insulting behaviour, but was unable to prevent the tall grey-green alien from returning to his ship and arrogantly flying away, thus causing even more panic and pandemonium.
@@ -2912,7 +2912,7 @@ he felt his feet connecting with the airline hold-all he'd stupidly left lying o
 With a sudden mad access of strength, he wrestled the battleclub from the grip of the startled robot, executed a dazzling banking turn in the air, hurtled back down in a furious power-drive and with one crazy swing knocked the robot's head from the robot's shoulders. "Are you coming now?" said Ford
 
 
-# Chapter 34
+# Chapter 34 #
 
 
 "And when the trial continued," he said in a weeping whisper, "they asked Prak a most unfortunate thing. They asked him," he paused and shivered, "to tell the Truth, the Whole Truth and Nothing but the Truth. Only, don't you see?"
@@ -2959,20 +2959,20 @@ A hatchway opened, a ramp extended, and a tall grey-green alien marched out and 
 
 
 
-##########################################
+#########################################
 
 
 
-## SO LONG, AND THANKS FOR ALL THE FISH
+## SO LONG, AND THANKS FOR ALL THE FISH ##
 
 
-# Preface
+# Preface #
 
 
 This time it was right, it would work, and no one would have to get nailed to anything. Sadly, however, before she could get to a phone to tell anyone about it, a terribly stupid catastrophe occurred, and the idea was lost forever. This is her story.
 
 
-# Chapter 1
+# Chapter 1 #
 
 
 That evening it was dark early, which was normal for the time of year. It was cold and windy, which was normal. It started to rain, which was particularly normal. A spacecraft landed, which was not.
@@ -2984,7 +2984,7 @@ You'd probably guessed that anyway. The Census report, like most such surveys, h
 another flicker of lightning crossing the sky, which allowed the soaked figure by the roadside a split-second to read a small sign at the back of the machine before it disappeared. To the figure's apparent incredulous astonishment the sign read, "My other car is also a Porsche."
 
 
-# Chapter 2
+# Chapter 2 #
 
 
 Rob McKeena was a miserable bastard and he knew it because he'd had a lot of people point it out to him over the years and he saw no reason to disagree with them except the obvious one which was that he liked disagreeing with people, particularly people he disliked
@@ -3010,7 +3010,7 @@ a couple of seconds later was the reflection of the hitch-hiker, drenched by the
 for, though he did not know it, Rob McKeena was a Rain God. All he knew was that his working days were miserable and he had a succession of lousy holidays. All the clouds knew was that they loved him and wanted to be near him, to cherish him, and to water him.
 
 
-# Chapter 3
+# Chapter 3 #
 
 
 The next two lorries were not driven by Rain Gods, but they did exactly the same thing.
@@ -3022,7 +3022,7 @@ The storm had now definitely abated, and what thunder there was now grumbled ove
 Earth, a world whose entire entry in the Hitchhiker's Guide to the Galaxy comprised the two words "Mostly harmless". The man who wrote this entry was called Ford Prefect, and he was at this precise moment on a far from harmless world, sitting in a far from harmless bar, recklessly causing trouble.
 
 
-# Chapter 4
+# Chapter 4 #
 
 
 Even the evil-looking bird perched on a rod in the bar had stopped screeching out the names and addresses of local contract killers, which was a service it provided for free. All eyes were on Ford Prefect. Some of them were on stalks.
@@ -3046,7 +3046,7 @@ Ford had only acquired it through a serious computer error towards the end of th
 "You gonna die, boy," the barman murmured quietly at Ford Prefect, and the evidence was on his side.
 
 
-# Chapter 5
+# Chapter 5 #
 
 
 The Hitchhiker's Guide to the Galaxy is a powerful organ. Indeed, its influence is so prodigious that strict rules have had to be drawn up by its editorial staff to prevent its misuse.
@@ -3136,7 +3136,7 @@ Russell swore and steered intently for a few seconds as the sky blattered at the
 "The Vogon..." squeaked Arthur. "The yellow ships... vanished?" "Well, of course they did, they were hallucinations," said Russell, and looked at Arthur oddly. "You trying to say you don't remember any of this? Where have you been for heaven's sake?"
 
 
-# Chapter 6
+# Chapter 6 #
 
 
 The Saab seethed off into the night. Arthur watched it go, as stunned as a man might be who, having believed himself to be totally blind for five years, suddenly discovers that he had merely been wearing too large a hat.
@@ -3150,7 +3150,7 @@ He was suddenly stunned by a realization he could no longer avoid, which was thi
 Was this really the Earth? Was there the slightest possibility that he had made some extraordinary mistake?
 
 
-# Chapter 7
+# Chapter 7 #
 
 
 His house was still there. How or why, he had no idea.
@@ -3178,7 +3178,7 @@ He left the sheep and let his mind drift outwards sleepily in developing ripples
 Across the jagged chasm had been another land, another time, an older world, not fractured from, but hardly joined: two Earths.
 
 
-# Chapter 8
+# Chapter 8 #
 
 
 Arthur awoke feeling wonderful, absolutely fabulous, refreshed, overjoyed to be home, bouncing with energy, hardly disappointed at all to discover it was the middle of February.
@@ -3198,7 +3198,7 @@ Six conversations along these lines began to take their toll on his mood of vigo
 "Arthur!!!!" He grinned cheerfully at the boggling eyes that stared at him from all corners of the pub, and told them all what a wonderful time he'd had in Southern California.
 
 
-# Chapter 9
+# Chapter 9 #
 
 
 "Nostradamus?" said one of his audience. "I didn't think he was an alchemist," said another. "I thought," said a third, "he was a seer." "He became a seer," said Arthur to his audience, the component parts of which were beginning to bob and blur a little, "because he was such a lousy alchemist."
@@ -3212,7 +3212,7 @@ He rounded on the doubting part of his audience, which was all of it, and so it 
 He sat and looked at the fish bowl. He tapped it again, and despite being full of water and a small yellow Babel fish which was gulping its way around rather dejectedly, it still chimed its deep and resonant chime as clearly and mesmerically as before.
 
 
-# Chapter 10
+# Chapter 10 #
 
 
 Ford Prefect suppressed a little giggle of evil satisfaction, realized that he had no reason to suppress it, and laughed out loud, a wicked laugh.
@@ -3220,7 +3220,7 @@ Ford Prefect suppressed a little giggle of evil satisfaction, realized that he h
 He giggled and sniggered. He would have laughed out loud but he didn't have the room.
 
 
-# Chapter 11
+# Chapter 11 #
 
 
 "April showers I hate especially."
@@ -3246,7 +3246,7 @@ the night he had returned exhausted and bewildered from his nightmare years in t
 Grown men, he told himself, in flat contradiction of centuries of accumulated evidence about the way grown men behave, do not behave like this.
 
 
-# Chapter 12
+# Chapter 12 #
 
 
 There is, for some reason, something especially grim about pubs near stations, a very particular kind of grubbiness, a special kind of pallor to the pork pies.
@@ -3280,7 +3280,7 @@ He sighed and smiled. "Where were we?" "You were calling me Fenny, and I was abo
 Arthur continued to gurgle for a moment or two.
 
 
-# Chapter 13
+# Chapter 13 #
 
 
 That night, at home, as he was prancing round the house pretending to be tripping through cornfields in slow motion and continually exploding with sudden laughter, Arthur thought he could even bear to listen to the album of bagpipe music he had won.
@@ -3290,13 +3290,13 @@ No. What he would do was this. He would put on the record of bagpipe music. He w
 The regulars thought his acceptance speech a little over-effusive. It was, after all, merely an album of bagpipe music.
 
 
-# Chapter 14
+# Chapter 14 #
 
 
 "Jim, 'e keeps effing and blinding at me. Says there's a number on the ticket." "Course there was a number on the ticket, it was a bloody raffle ticket wasn't it?" "'E says 'e means its a telephone number on the ticket." "Put the phone down and serve the bloody customers, will you?"
 
 
-# Chapter 15
+# Chapter 15 #
 
 
 Eight hours West sat a man alone on a beach mourning an inexplicable loss. He could only think of his loss in little packets of grief at a time, because the whole thing was too great to be borne.
@@ -3310,7 +3310,7 @@ One of the many reasons why people thought him insane was because of the peculia
 His name was simply John Watson, though he preferred to be called — and some of his friends had now reluctantly agreed to this — Wonko the Sane.
 
 
-# Chapter 16
+# Chapter 16 #
 
 
 After a disgusting Sunday spent emptying rubbish bins behind a pub in Taunton, and finding nothing, no raffle ticket, no telephone number, Arthur tried everything he could to find Fenchurch, and the more things he tried, the more weeks passed.
@@ -3332,7 +3332,7 @@ Arthur shook his head. "Stupid to say it rains all the time..." he said. The man
 "She says it's nonsense and I make a fuss and complain about nothing, but," he paused dramatically and darted out dangerous looks from his eyes, "she always brings the washing in when I phone to say I'm on me way home!" He brandished his coffee spoon. "What do you make of that?"
 
 
-# Chapter 17
+# Chapter 17 #
 
 
 Misery, dejection. More misery and more dejection. He needed a project and he gave himself one. He would find where his cave had been.
@@ -3340,7 +3340,7 @@ Misery, dejection. More misery and more dejection. He needed a project and he ga
 On prehistoric Earth he had lived in a cave, not a nice cave, a lousy cave, but... There was no but. It had been a totally lousy cave and he had hated it. But he had lived in it for five years which made it home of some kind, and a person likes to keep track of his homes.
 
 
-# Chapter 18
+# Chapter 18 #
 
 
 "You'll have to excuse me," said Arthur. "I'm terribly happy." "I see."
@@ -3358,7 +3358,7 @@ They looked at each other for a moment. The moment became a longer moment, and s
 Arthur felt that if someone tapped him at that point he would have chimed, like the deep sustained rolling chime his grey fishbowl made when he flicked it with his thumbnail.
 
 
-# Chapter 19
+# Chapter 19 #
 
 
 Ford Prefect was irritated to be continually wakened by the sound of gunfire.
@@ -3366,7 +3366,7 @@ Ford Prefect was irritated to be continually wakened by the sound of gunfire.
 Ford shook his head irritably and rubbed his eyes. He slumped on the wrecked body of a dull silver robot which clearly had been burning earlier on, but had now cooled down enough to sit on.
 
 
-# Chapter 20
+# Chapter 20 #
 
 
 Arthur and Fenchurch giggled about this to each other as they passed. She hugged him more tightly for a moment.
@@ -3444,7 +3444,7 @@ Arthur slowly let out a long year of a sigh. "It is," he said, "a very long stor
 "I'm not even sure," she further added, slipping her arm around Arthur's waist, "that I know where here is."
 
 
-# Chapter 21
+# Chapter 21 #
 
 
 The Hitchhiker's Guide to the Galaxy is, as has been remarked before often and accurately, a pretty startling kind of a thing.
@@ -3458,7 +3458,7 @@ They adored it to bits, and this wholesale adoring of things to bits was often i
 The Fuolornis Fire Dragons were revered throughout the lands of Brequinda in the Foth of Avalars for their savage beauty, their noble ways and their habit of biting people who didn't revere them.
 
 
-# Chapter 22
+# Chapter 22 #
 
 
 Mark Knopfler has an extraordinary ability to make a Schecter Custom Stratocaster hoot and sing like angels on a Saturday night, exhausted from being good all week and needing a stiff beer — which is not strictly relevant at this point since the record hadn't yet got to that bit
@@ -3472,7 +3472,7 @@ She moved forward, put her arms round and kissed him, because the record had got
 The record got to the good bit.
 
 
-# Chapter 23
+# Chapter 23 #
 
 
 The battle raged on about the star of Xaxis. Hundreds of the fierce and horribly beweaponed Zirzla ships had now been smashed and wrenched to atoms by the withering forces the huge silver Xaxisian ship was able to deploy.
@@ -3486,7 +3486,7 @@ The thing thrashed to the shore and struggled up the bank. "Hi," it said, "I've 
 "Life," he said, "is like a grapefruit." "Er, how so?" "Well, it's sort of orangey-yellow and dimpled on the outside, wet and squidgy in the middle. It's got pips inside, too. Oh, and some people have half a one for breakfast." "Is there anyone else out there I can talk to?"
 
 
-# Chapter 24
+# Chapter 24 #
 
 
 Luckily there was a strong updraft in the alley because Arthur hadn't done this sort of thing for a while, at least, not deliberately, and deliberately is exactly the way you are not meant to do it.
@@ -3508,7 +3508,7 @@ He had the quiet shifty look of someone who habitually stole bicycles in alleys 
 went about his job with purpose and concentration, and when he found that the bike was unarguably bound by hoops of tungsten carbide to an iron bar embedded in concrete, he peacefully bent both its wheels and went on his way.
 
 
-# Chapter 25
+# Chapter 25 #
 
 
 Those who are regular followers of the doings of Arthur Dent may have received an impression of his character and habits which, while it includes the truth and, of course, nothing but the truth, falls somewhat short, in its composition, of the whole truth in all its glorious aspects.
@@ -3518,7 +3518,7 @@ some of these people have often seemed inordinately interested. What, they want 
 Those who wish to know should read on. Others may wish to skip on to the last chapter which is a good bit and has Marvin in it.
 
 
-# Chapter 26
+# Chapter 26 #
 
 
 They drifted up, spiralling slowly around each other, like sycamore seeds falling from sycamore trees in the autumn, except going the other way.
@@ -3554,7 +3554,7 @@ The following morning Arthur and Fenchurch slept very late in the alley despite 
 The following night they did it all over again, only this time with Sony Walkmen.
 
 
-# Chapter 27
+# Chapter 27 #
 
 
 "This is all very wonderful," said Fenchurch a few days later. "But I do need to know what has happened to me. You see, there's this difference between us. That you lost something and found it again, and I found something and lost it. I need to find it again."
@@ -3568,7 +3568,7 @@ language which he had invented for his own use, and which no one else was able t
 "This man is the bee's knees, Arthur, he is the wasp's nipples. He is, I would go so far as to say, the entire set of erogenous zones of every major flying insect of the Western world. We're calling him the Rain God. Nice, eh?"
 
 
-# Chapter 28
+# Chapter 28 #
 
 
 "People are beginning to talk," said Fenchurch that evening, after they had hauled her 'cello in. "Not only talk," said Arthur, "but print, in big bold letters under the bingo prizes."
@@ -3592,13 +3592,13 @@ Arthur's voice, at its most mystified: "I'm sorry, I don't understand. Where is 
 "Do you think it's worth it?" she said. "Well," said Arthur, "the one thing that everyone I spoke to agrees on, apart from the fact that they all thought he was barking mad, is that he does know more than any man living about dolphins."
 
 
-# Chapter 29
+# Chapter 29 #
 
 
 "This is an important announcement. This is flight 121 to Los Angeles. If your travel plans today do not include Los Angeles, now would be the perfect time to disembark."
 
 
-# Chapter 30
+# Chapter 30 #
 
 
 They rented a car in Los Angeles from one of the places that rents out cars that other people have thrown away.
@@ -3614,7 +3614,7 @@ They drove out along the freeway to Santa Monica for their first look at the Pac
 Arthur had a swordfish steak and said it made him angry. He grabbed a passing waitress by the arm and berated her. "Why's this fish so bloody good?" he demanded, angrily. "Please excuse my friend," said Fenchurch to the startled waitress. "I think he's having a nice day at last."
 
 
-# Chapter 31
+# Chapter 31 #
 
 
 If you took a couple of David Bowies and stuck one of the David Bowies on the top of the other David Bowie, then attached another David Bowie to the end of each of the arms of the upper of the first two David Bowies and wrapped the whole business up in a dirty beach robe
@@ -3694,7 +3694,7 @@ The bowl seemed almost to sing with the sun, to chime with the intensity of its 
 "Then I held it to my ear. Have you... have you held one to your ear?" They both shook their heads, again slowly, again dumbly. "Perhaps," he said, "you should."
 
 
-# Chapter 32
+# Chapter 32 #
 
 
 The deep roar of the ocean. The break of waves on further shores than thought can find. The silent thunders of the deep. And from among it, voices calling, and yet not voices, humming trillings, wordlings, the half-articulated songs of thought.
@@ -3708,7 +3708,7 @@ And then the fling of hope, the finding of a shadow Earth in the implications of
 Then stunningly a single voice, quite clear. "This bowl was brought to you by the Campaign to Save the Humans. We bid you farewell." And then the sound of long, heavy, perfectly grey bodies rolling away into an unknown fathomless deep, quietly giggling.
 
 
-# Chapter 33
+# Chapter 33 #
 
 
 That night they stayed Outside the Asylum and watched TV from inside it.
@@ -3724,7 +3724,7 @@ That night they stayed Outside the Asylum and watched TV from inside it.
 "Thanks, that'll be all for now, other than to say 'Hi!' to Wonko if he's watching."
 
 
-# Chapter 34
+# Chapter 34 #
 
 
 She looked at it. Among all the scratchings and crossings out were the words "Quentulus Quazgar Mountains. Sevorbeupstry. Planet of Preliumtarn. Sun-Zarss. Galactic Sector QQ7 Active J Gamma." "And what's there?" "Apparently," said Arthur, "it's God's Final Message to His Creation."
@@ -3732,7 +3732,7 @@ She looked at it. Among all the scratchings and crossings out were the words "Qu
 "Excuse me," said the woman who had been looking at them rather oddly, suddenly, "I hope you don't think I'm rude. I get so bored on these long flights, it's nice to talk to somebody. My name's Enid Kapelsen, I'm from Boston. Tell me, do you fly a lot?"
 
 
-# Chapter 35
+# Chapter 35 #
 
 
 They went to Arthur's house in the West Country, shoved a couple of towels and stuff in a bag, and then sat down to do what every Galactic hitch hiker ends up spending most of his time doing.\n They waited for a flying saucer to come by.
@@ -3764,7 +3764,7 @@ He had long ago realized that the only way of being in Ford's company successful
 He threw himself, sweating, on to the sofa. "Anyway," he said, "dramatic arrival, don't you think?"
 
 
-# Chapter 36
+# Chapter 36 #
 
 
 The flying saucer in which Ford Prefect had stowed away had stunned the world. Finally there was no doubt, no possibility of mistake, no hallucinations, no mysterious CIA agents found floating in reservoirs. This time it was real, it was definite. It was quite definitely definite.
@@ -3782,7 +3782,7 @@ After a long, heart-stopping moment of internal crashes and grumbles of rending 
 "Arthur, who is this?" said Fenchurch. "Ford Prefect," said Arthur. "I may have mentioned him in passing."
 
 
-# Chapter 37
+# Chapter 37 #
 
 
 For a total of three days and nights the giant silver robot stood in stunned amazement straddling the remains of Knightsbridge, swaying slightly and trying to work out a number of things.
@@ -3794,7 +3794,7 @@ Eventually the robot announced to the world that despite the full, frank, and wi
 where the robot slowly freed itself of its transport system's embraces and went and lay for ten days on the beach. It was, of course, by far the most exciting thing that had ever happened to Bournemouth.
 
 
-# Chapter 38
+# Chapter 38 #
 
 
 They in turn were surrounded by a cordon of police, though whether they were there to protect the public from the army or the army from the public, or to guarantee the giant ship's diplomatic immunity and prevent it getting parking tickets was entirely unclear and the subject of much debate.
@@ -3804,7 +3804,7 @@ They in turn were surrounded by a cordon of police, though whether they were the
 "There has been," barked the megaphone, "a major scientific break-in! Through. Breakthrough," it corrected itself. The door flew open and a small man from somewhere in the vicinity of Betelgeuse leapt out wearing a white coat.
 
 
-# Chapter 39
+# Chapter 39 #
 
 
 Arthur Dent was irritated to be continually wakened by the sound of gunfire.
@@ -3812,7 +3812,7 @@ Arthur Dent was irritated to be continually wakened by the sound of gunfire.
 "Hey, what happened with all that anyway?" "Just life," said Arthur, and plucked a beer from a six-pack. "Oh, that again," said Ford. "I thought it might be something like that."
 
 
-# Chapter 40
+# Chapter 40 #
 
 
 There remains little still to tell.
@@ -3868,7 +3868,7 @@ They had been staring at it for fully ten minutes before they became aware that 
 "I think," he murmured at last, from deep within his corroding rattling thorax, "I feel good about it." The lights went out in his eyes for absolutely the very last time ever. Luckily, there was a stall nearby where you could rent scooters from guys with green wings.
 
 
-# Epilogue
+# Epilogue #
 
 
 had come up with a remarkable new breed of super-fly that could, unaided, figure out how to fly through the open half of a half-open window, and also an off-switch for children.
@@ -3883,16 +3883,16 @@ There was a point to this story, but it has temporarily escaped the chronicler's
 
 
 
-## MOSTLY HARMLESS
+## MOSTLY HARMLESS ##
 
 
-# Preface
+# Preface #
 
 
 Anything that happens, happens. Anything that, in happening, causes something else to happen, causes something else to happen. Anything that, in happening, causes itself to happen again, happens again. It doesn't necessarily do it in chronological order, though.
 
 
-# Chapter 1
+# Chapter 1 #
 
 
 The history of the Galaxy has got a little muddled, for a number of reasons: partly because those who are trying to keep track of it have got a little muddled, but also because some very muddling things have been happening anyway.
@@ -3946,7 +3946,7 @@ The planet they found was desolately cold and lonely, so achingly far from the s
 As far as finding something to monitor was concerned, though, they hit solid gold.
 
 
-# Chapter 2
+# Chapter 2 #
 
 
 One of the extraordinary things about life is the sort of places it's prepared to put up with living.
@@ -4002,7 +4002,7 @@ She had just been told, by a total stranger, something she'd kept completely sec
 she reflected that if there was one thing life had taught her it was that there are times when you do not go back for your bag and other times when you do. It had yet to teach her to distinguish between the two types of occasion.
 
 
-# Chapter 3
+# Chapter 3 #
 
 
 The Hitchhiker's Guide to the Galaxy has, in what we laughingly call the past, had a great deal to say on the subject of parallel universes.
@@ -4032,7 +4032,7 @@ Once something actually happens somewhere in something as wildly complicated as 
 that slice of the Whole Sort of General Mish Mash — such as Tricia McMillan failing to leave with Zaphod Beeblebrox, abnormally low sales of pecan-flavoured ice-cream and the fact that the Earth on which all this occurred did not get demolished by the Vogons to make way for a new hyperspace bypass
 
 
-# Chapter 4
+# Chapter 4 #
 
 
 Tricia began to feel that the world was conspiring against her. She knew that this was a perfectly normal way to feel after an overnight flight going east, when you suddenly have a whole other mysteriously threatening day to deal with for which you are not the least bit prepared. But still.
@@ -4050,7 +4050,7 @@ She thought that trying to live life according to any plan you actually work out
 Anyway, that night an alien spacecraft landed on her lawn.
 
 
-# Chapter 5
+# Chapter 5 #
 
 
 She took a deep breath of cool evening air, stepped outside and looked up. There was something roughly the size of a large camper van parked about a hundred feet above her lawn. It was really there. Hanging there. Almost silent. Something moved deep inside her.
@@ -4076,7 +4076,7 @@ She took a deep breath of cool evening air, stepped outside and looked up. There
 "Let me get this straight," said Tricia. "You want me to come with you to... Rupert..." "Yes." "To recalculate your horoscopes for you to take account of the relative positions of Earth and Rupert?" "Yes." "Do I get an exclusive?" "Yes." "I'm your girl," said Tricia
 
 
-# Chapter 6
+# Chapter 6 #
 
 
 The offices of the Hitchhiker's Guide to the Galaxy were quite often shifted at very short notice to another planet, for reasons of local climate, local hostility, power bills or tax, but they were always reconstructed exactly the same way, almost to the very molecule.
@@ -4152,7 +4152,7 @@ the Ident-i-Eeze. This encoded every single piece of information about you, your
 He picked up his towel and ran cheerfully for the door. Life had been a little dull of late. It showed every sign now of becoming extremely froody.
 
 
-# Chapter 7
+# Chapter 7 #
 
 
 Arthur Dent had been in some hell-holes in his life, but he had never before seen a spaceport which had a sign saying, "Even travelling despondently is better than arriving here."
@@ -4194,7 +4194,7 @@ There was a brief, ugly confusion of jabbering and thrashing. The man shouted fr
 "Yes, it's the right planet, all right," he said again. "Right planet, wrong universe."
 
 
-# Chapter 8
+# Chapter 8 #
 
 
 Ford had his own code of ethics. It wasn't much of one, but it was his and he stuck by it, more or less. One rule he made was never to buy his own drinks. He wasn't sure if that counted as an ethic, but you have to go with what you've got.
@@ -4228,7 +4228,7 @@ He wanted something that nobody other than the computer would notice: that was t
 This was fun, thought Ford, giving Colin a friendly pat. Colin was about the first genuinely useful robot Ford had ever encountered.
 
 
-# Chapter 9
+# Chapter 9 #
 
 
 Arthur felt at a bit of a loss. There was a whole Galaxy of stuff out there for him, and he wondered if it was churlish of him to complain to himself that it lacked just two things: the world he was born on and the woman he loved.
@@ -4294,7 +4294,7 @@ It was unnerving though. The man was now stepping from pole to ground, from grou
 "Ever heard of a place called Stavromula Beta?" asked Arthur. "No."
 
 
-# Chapter 10
+# Chapter 10 #
 
 
 people have this stupid obsession with rearranging their office furniture every five minutes? Why, for instance, replace a perfectly serviceable if rather muted grey crushed leather sofa with what appeared to be a small tank?
@@ -4316,7 +4316,7 @@ The big guy with the rocket launcher was moving it up into position for another 
 What the hell, he thought, you're only young once, and threw himself out of the window. That would at least keep the element of surprise on his side.
 
 
-# Chapter 11
+# Chapter 11 #
 
 
 The first thing Arthur Dent had to do, he realised resignedly, was to get himself a life.
@@ -4362,7 +4362,7 @@ Arthur Dent, because of the sheer boredom of endless inter-stellar flight, was t
 fluffy pink plastic cocoon with "Have a nice day" printed in over three thousand different languages all over it. Black, roaring silences swam sickeningly through his shattered mind. He knew with a kind of resigned certainty that he would survive, because he had not yet been to Stavromula Beta.
 
 
-# Chapter 12
+# Chapter 12 #
 
 
 Ford tumbled through the open air in a cloud of glass splinters and chair parts. Again, he hadn't really thought things through, really, and was just playing it by ear, buying time.
@@ -4428,7 +4428,7 @@ Then Ford noticed that there was something written on it. Strange. There hadn't 
 Panic, the Guide Mk II said. Ford begin to do as he was told. He had just remembered why the slug-like creatures looked familiar. Their colour scheme was a kind of corporate grey, but in all other respects they looked exactly like Vogons.
 
 
-# Chapter 13
+# Chapter 13 #
 
 
 it was a pretty nifty one, a small sleek Hrundi four-berth runabout with just about every optional extra in the brochure except Advanced Vectoid Stabilisis, which only wimps went for. You can't get a good tight, sharp curve round a tri-lateral time axis with Advanced Vectoid Stabilisis.
@@ -4494,7 +4494,7 @@ They all looked to Thrashbarg, but he was on his knees mumbling and looking very
 He still didn't quite understand what she meant, though, so in the end he had to say so. Trillian gave him a cool smile and then turned back to the door of the hut. "Random?" she called. "Come in. Come and meet your father."
 
 
-# Chapter 14
+# Chapter 14 #
 
 
 His head was hammering, his ankle was hurting, and though he didn't like to be a wimp about his ankle, he always found that intense multi-dimensional logic was something he understood best in the bath.
@@ -4516,7 +4516,7 @@ Everything had fitted terribly well. He had hurtled through the day with reckles
 So everything was going well was it? Everything was working out as if the most extraordinary luck was on his side? Well, he'd see about that. In a spirit of scientific enquiry he hurled himself out of the window again.
 
 
-# Chapter 15
+# Chapter 15 #
 
 
 The first month, getting to know each other, was a little difficult. The second month, trying to come to terms with what they'd got to know about each other in the first month, was much easier. The third month, when the box arrived, was very tricky indeed.
@@ -4578,7 +4578,7 @@ They had tried the usual business of waving the knives through the air, feeling 
 "I'm sorry," said Random, and put the package down again. She could see that it really would upset him if she opened it. She would just have to do it when he wasn't looking.
 
 
-# Chapter 16
+# Chapter 16 #
 
 
 Arthur wasn't quite certain which he noticed as being missing first. When he noticed that the one wasn't there his mind instantly leapt to the other and he knew immediately that they were both gone and that something insanely bad and difficult to deal with would happen as a result.
@@ -4606,7 +4606,7 @@ and then noticed something close to it on the ground, half covered in mud. She p
 mouth of a cave. She played her torch into its interior. It seemed to be dry and safe. Picking her way carefully, she walked in. It was quite spacious, but didn't go that deep. Exhausted and relieved she sat on a convenient rock, put the box down in front of her and started immediately to open it.
 
 
-# Chapter 17
+# Chapter 17 #
 
 
 It was extraordinarily elaborate but also simple and elegant. It was like a piece of self-opening origami, or a rosebud blooming into a rose in just a few seconds. Where just a few moments earlier there had been a smoothly curved black disk there was now a bird. A bird, hovering there.
@@ -4686,7 +4686,7 @@ He could not conceive that he could feel more wretched and awful than this, but 
 He went out of the cave again into the dim and damp moonlight. He sat on a rock to have a look through the old Guide, and then discovered it wasn't a rock, it was a person.
 
 
-# Chapter 18
+# Chapter 18 #
 
 
 Arthur leapt to his feet with a start of fear. It would be hard to say which he was more frightened of: that he might have hurt the person he had inadvertently sat on or that the person he had inadvertently sat on would hurt him back.
@@ -4782,7 +4782,7 @@ Arthur put his head in his hands and shook it gently from side to side. "Is ther
 "Why are they called Perfectly Normal Beasts?" Arthur told him. It wasn't often that Arthur had the pleasure of seeing Ford's eyes open wide with astonishment.
 
 
-# Chapter 19
+# Chapter 19 #
 
 
 fine steam of the sweat of their bodies mingled with the muddy mist churned up by their pounding hooves, their appearance seemed a little unreal and ghostly anyway, but what was heart-stopping about them was where they came from and where they went to, which appeared to be, simply, nowhere.
@@ -4808,7 +4808,7 @@ He pulled out his own battered old copy of the Hitchhiker's Guide to the Galaxy 
 "It's very like the way a matador works, you know, with a brightly coloured cape. You get one to charge at you and then step aside and execute a rather elegant swing through with the cape. Have you got anything like a brightly coloured cape about you?" "This do?" said Ford, handing him his towel.
 
 
-# Chapter 20
+# Chapter 20 #
 
 
 Leaping on to the back of a one-and-a-half-ton Perfectly Normal Beast migrating through your world at a thundering thirty miles an hour is not as easy as it might at first seem.
@@ -4866,7 +4866,7 @@ Old Thrashbarg held the bird suddenly aloft. The Beast's head swivelled up to fo
 "Ford, I don't know what you're talking about." "So?" said Ford.
 
 
-# Chapter 21
+# Chapter 21 #
 
 
 it had all come on top of the overnight flight from New York. The red eye. Always a killer, that. Then, being accosted by aliens on her lawn and flown to the planet Rupert. She was not sufficiently experienced in that sort of thing to be able to say for sure that that was always a killer
@@ -4910,7 +4910,7 @@ structures of the huge half-dismantled Grebulon ship looked like gun turrets on 
 professional reporter, on home ground, ready for anything. At least, nearly anything. She turned to look for the girl. That must be her, with the wild hair and wild eyes. The girl turned towards her. And stared. "Mother!" she screamed, and started to hurl rocks at Tricia.
 
 
-# Chapter 22
+# Chapter 22 #
 
 
 Daylight exploded around them. Hot, heavy sun. A desert plain stretched out ahead in a haze of heat. They thundered out into it. "Jump!" shouted Ford Prefect. "What?" shouted Arthur Dent, holding on for dear life. There was no reply.
@@ -4976,7 +4976,7 @@ The seats and quite a lot of the controls were covered in fine fur skin or suede
 Ford shook his head. "Look," he said, "there are some tapes over in the compartment to your left. Why don't you choose some music and put it on?" "OK," said Arthur, and flipped through the cartons. "Do you like Elvis Presley?" he said. "Yeah I do as a matter of fact," said Ford.
 
 
-# Chapter 23
+# Chapter 23 #
 
 
 The news networks don't like this kind of thing. They regard it as a waste. An incontrovertible spaceship arrives out of nowhere in the middle of London and it is sensational news of the highest magnitude. Another completely different one arrives three and a half hours later and somehow it isn't.
@@ -5000,7 +5000,7 @@ The news networks don't like this kind of thing. They regard it as a waste. An i
 A rather shaken anchorman appeared on the screen and apologised to viewers for the disruption of the previous item. He said he didn't have any very clear news to report, only that the mysterious girl, who called herself Random Frequent Flyer Dent had left the studio to, er, rest.
 
 
-# Chapter 24
+# Chapter 24 #
 
 
 Away in the inky depths of space invisible movements were being made. Invisible to any of the inhabitants of the strange and temperamental Plural zone at the focus of which lay the infinitely multitudinous possibilities of the planet called Earth, but not inconsequential to them.
@@ -5038,7 +5038,7 @@ Dim lights danced briefly in the black eyes of the bird as, deep in its instruct
 A brilliant vision lit up in the darkness, a watery blue and green vision, a tube flowing through the air, shaped like a chopped up string of sausages. With a flatulent noise of satisfaction, the Vogon Captain sat back to watch.
 
 
-# Chapter 25
+# Chapter 25 #
 
 
 "Just there, number forty-two," shouted Ford Prefect to the taxi-driver. "Right here!"
@@ -5085,7 +5085,7 @@ In spite of having taken what he regarded as an extremely positive piece of acti
 
 
 
-## Footnotes
+## Footnotes ##
 
 
 The President in particular is very much a figurehead — he wields no real power whatsoever. He is apparently chosen by the government, but the qualities he is required to display are not those of leadership but those of finely judged outrage.
