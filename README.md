@@ -1,4 +1,4 @@
-# Hitchhiker's Guide To The Galaxy Bluesky bot 👍
+# Hitchhiker's Guide To The Galaxy Bluesky bot 👍🛸
 
 This repo contains code and content for regularly posting random lines from the 5 Hitchhiker's Guide To The Galaxy books by Douglas Adams to a dedicated [Bluesky account](https://bsky.app/profile/whalepetunias.bsky.social). The bot is inspired by the analogous [Moby Dick bot](https://bsky.app/profile/mobydickatsea.bsky.social), and is built from [template code](https://github.com/philnash/bsky-bot) provided by [@philnash](https://github.com/philnash).
 
