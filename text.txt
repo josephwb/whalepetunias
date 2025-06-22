@@ -2494,37 +2494,61 @@ He sat still and ignored the thought furiously. It nagged at him. He ignored it.
 # Chapter 6 #
 
 
-"Hello? Yes? Megadodo Publications, home of the Hitchhiker's Guide to the Galaxy, the most totally remarkable book in the whole of the known Universe, can I help you?"
+"Hello? Yes? Megadodo Publications, home of The Hitch Hiker's Guide to the Galaxy, the most totally remarkable book in the whole of the known Universe, can I help you?" said the large pink-winged insect into one of the seventy phones lined up along the vast chrome expanse of the reception desk
 
 It adored working for the Hitchhiker's Guide to the Galaxy, it just wished there was some way of keeping all the hitch-hikers away. Weren't they meant to be hanging round dirty spaceports or something?
 
 "Yes, I passed on your message to Mr. Zarniwoop, but I'm afraid he's too cool to see you right now."
 
+"Yes," said the insect, "he is in his office, but he's on an intergalactic cruise. Thank you so much for calling." It slammed down the phone.
+
+for though it cannot hope to be useful or informative on all matters, it does at least make the reassuring claim, that where it is inaccurate it is at least definitively inaccurate. In cases of major discrepancy it's always reality that's got it wrong.
+
 "The Guide is definitive. Reality is frequently inaccurate."
 
 they claimed that the first version of the sentence was the more aesthetically pleasing, summoned a qualified poet to testify under oath that beauty was truth, truth beauty and hoped thereby to prove that the guilty party was Life itself for failing to be either beautiful or true.
 
+The judges concurred, and in a moving speech held that Life itself was in contempt of court, and duly confiscated it from all those there present before going off to enjoy a pleasant evening's ultragolf.
+
 "Look," said Zaphod, "I'm up to here with cool, OK? I'm so amazingly cool you could keep a side of meat inside me for a month. I am so hip I have difficulty seeing over my pelvis."
 
-"This cat's on an intergalactic cruise... in his office?"
+"When's he going to be back?" he said. "Back, sir? He's in his office." Zaphod paused whilst he tried to sort this particular thought out in his mind. He didn't succeed. "This cat's on an intergalactic cruise... in his office?"
 
 "Listen, three eyes," he said, "don't you try to outweird me. I get stranger things than you free with my breakfast cereal."
 
+"Well, just who do you think you are, honey?" flounced the insect quivering its wings in rage, "Zaphod Beeblebrox or something?" "Count the heads," said Zaphod in a low rasp.
+
+"You are Zaphod Beeblebrox?" it squeaked. "Yeah," said Zaphod, "but don't shout it out or they'll all want one." "The Zaphod Beeblebrox?" "No, just a Zaphod Beeblebrox, didn't you hear I come in s1x-packs?"
+
+The insect rattled its tentacles together in agitation. "But sir," it squealed, "I just heard on the sub-ether radio report. It said you were dead..." "Yeah, that's right," said Zaphod, "I just haven't stopped moving yet."
+
+"Now. Where do I find Zarniwoop?" "Well sir, his office is on the fifteenth floor, but..." "But he's on an intergalactic cruise, yeah, yeah, how do I get to him." "The newly installed Sirius Cybernetics Corporation Happy Vertical People Transporters are in the far corner, sir."
+
 Zaphod leaned forward, conspirationally.
 
-"Mr. Beeblebrox, sir," said the insect in awed wonder, "you're so weird you should be in movies."
+"I just materialized out of thin air in one of your cafés," he said, "as a result of an argument with the ghost of my great-grandfather. No sooner had I got there than my former self, the one that operated on my brain, popped into my head and said 'Go see Zarniwoop'. I have never heard of the cat."
+
+"Mr. Beeblebrox, sir," said the insect in awed wonder, "you're so weird you should be in movies." "Yeah," said Zaphod patting the thing on a glittering pink wing, "and you, baby, should be in real life."
 
 "Yes, sir," it snapped, "can I help you?" "I doubt it," said Marvin.
 
-"No one can help me," intoned Marvin.
+"No one can help me," intoned Marvin. "Yes, sir, well..." "Not that anyone's tried of course."
+
+"I mean where's the percentage in being kind or helpful to a robot if it doesn't have any gratitude circuits?" "And you don't have any?" said the insect, who didn't seem to be able to drag itself out of this conversation. "I’ve never had occasion to find out," Marvin informed it.
 
 "Listen, you miserable heap of maladjusted metal..."
 
+"I'm looking for someone." "Who?" hissed the insect. "Zaphod Beeblebrox," said Marvin, "he's over there." The insect shook with rage. It could hardly speak. "Then why did you ask me?" it screamed. "I just wanted something to talk to," said Marvin. "What!" "Pathetic isn't it?"
+
 With a grinding of gears Marvin turned and trundled off.
 
-"One moment I was sitting in your ship feeling very depressed, and the next moment I was standing here feeling utterly miserable."
+"One moment I was sitting in your ship feeling very depressed, and the next moment I was standing here feeling utterly miserable. An Improbability Field I expect."
 
-"Oh, fine," said Marvin, "if you happen to like being me which personally I don't."
+"Yeah," said Zaphod, "I expect my great-grandfather sent you along to keep me company." "Thanks a bundle, Grandad," he added to himself under his breath. "So, how are you?" he said aloud. "Oh, fine," said Marvin, "if you happen to like being me which personally I don't."
+
+"Hello," said the elevator sweetly, "I am to be your elevator for this trip to the floor of your choice. I have been designed by the Sirius Cybernetics Corporation to take you, the visitor to The Hitch Hiker's Guide to the Galaxy, into these their offices."
+
+Zaphod, stepping into it, "what else do you do besides talk?" "I go up," said the elevator, "or down." "Good," said Zaphod, "we're going up." "Or down," the elevator reminded him. "Yeah, OK, up please." There was a moment of silence. "Down's very nice," suggested the elevator hopefully.
 
 "May I ask you," inquired the elevator in its sweetest, most reasonable voice, "if you've considered all the possibilities that down might offer you?"
 
@@ -2532,27 +2556,53 @@ Zaphod knocked one of his heads against the inside wall. He didn't need this, he
 
 Most of all he didn't want to be standing in an office block arguing with an elevator.
 
-"Holy Zarquon," muttered Zaphod, "did I ask for an existentialist elevator?"
+"Holy Zarquon," muttered Zaphod, "did I ask for an existentialist elevator?" He beat his fists against the wall.
 
-"Afraid?" cried Zaphod, "Of what? Heights? An elevator that's afraid of heights?"
+"What's the matter with the thing?" he spat. "It doesn't want to go up," said Marvin simply, "I think it's afraid." "Afraid?" cried Zaphod. "Of what? Heights? An elevator that's afraid of heights?" "No," said the elevator miserably, "of the future..."
+
+"We can all see into the future," whispered the elevator in what sounded like terror
+
+"Marvin," he said, "just get this elevator to go up will you? We've got to get to Zarniwoop." "Why?" asked Marvin dolefully. "I don't know," said Zaphod, "but when I find him, he'd better have a very good reason for me wanting to see him."
 
 Modern elevators are strange and complex entities.
+
+The ancient electric winch and "maximum-capacity-eight-persons" jobs bear as much relation to a Sirius Cybernetics Corporation Happy Vertical People Transporter as a packet of mixed nuts does to the entire west wing of the Sirian State Mental Hospital.
+
+they operate on the curious principle of "defocused temporal perception". In other words they have the capacity to see dimly into the immediate future, which enables the elevator to be on the right floor to pick you up even before you knew you wanted it
+
+the capacity to see dimly into the immediate future, which enables the elevator to be on the right floor to pick you up even before you knew you wanted it, thus eliminating all the tedious chatting, relaxing, and making friends that people were previously forced to do whilst waiting for elevators.
+
+Not unnaturally, many elevators imbued with intelligence and precognition became terribly frustrated with the mindless business of going up and down, up and down, experimented briefly with the notion of going sideways, as a sort of existential protest
 
 An impoverished hitch-hiker visiting any planets in the Sirius star system these days can pick up easy money working as a counsellor for neurotic elevators.
 
 "Left in the lurch by a lift," muttered Zaphod, who was feeling at his least jaunty.
 
-"I'm dead certain this building shouldn't be shaking," Zaphod said.
+"You know something?" said Zaphod to Marvin. "More than you can possibly imagine." "I'm dead certain this building shouldn't be shaking," Zaphod said.
 
 He walked across to the window and suddenly stumbled because at that moment his Joo Janta 200 Super-Chromatic Peril Sensitive sunglasses had turned utterly black.
 
-"Who in the Galaxy would want to bomb a publishing company?"
+"Who in the Galaxy would want to bomb a publishing company?" asked Zaphod, but never heard Marvin's reply because at that moment the building shook with another bomb attack.
 
 "Beeblebrox, over here!" he shouted. Zaphod eyed him with distrust as another bomb blast rocked the building. "No," called Zaphod, "Beeblebrox over here!"
 
+"Who are you?" "A friend!" shouted back the man. He ran towards Zaphod. "Oh yeah?" said Zaphod. "Anyone's friend in particular, or just generally well disposed to people?"
+
 "Do you know," Zaphod shouted in his ear when he arrived, "your building's being bombed?" The man indicated his awareness.
 
+"The government you deserted is out to get you, Zaphod," hissed the man, "they've sent a squadron of Frogstar Fighters."
+
 "Frogstar Fighters!" muttered Zaphod, "Zarquon!"
+
+With a searing whine a small black spider-like object shot through the air and disappeared down the corridor. "What was that?" hissed Zaphod. "Frogstar Scout robot class A out looking for you," said the man. "Hey yeah?"
+
+"Get down!" From the opposite direction came a larger black spider-like object. It zapped past them. "And that was...?" "A Frogstar Scout robot class B out looking for you."
+
+"And that?" said Zaphod, as a third one seared through the air. "A Frogstar Scout robot class C out looking for you."
+
+From over the bridge came a massive rumbling hum. A gigantic black shape was moving over it from the Opposite tower, the size and shape of a tank. "Holy photon, what's that?" breathed Zaphod. "A tank," said the man, "Frogstar Scout robot class D come to get you."
+
+"You see that robot coming towards us?" Marvin looked at the gigantic black Shape edging forward towards them over the bridge. He looked down at his own small metal body. He looked back up at the tank. "I suppose you want me to stop it," he said. "Yeah." "Whilst you save your skins." "Yeah"
 
 
 # Chapter 7 #
