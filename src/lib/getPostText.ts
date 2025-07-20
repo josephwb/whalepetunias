@@ -26,8 +26,10 @@ export default async function getPostText() {
   console.log("array.length = " + array.length);
   console.log("index = " + x);
   console.log("line.length = " + line.length);
-  if (line.length > 300) {
-    console.log("ERROR: line.length > 300!")
+  
+  // posts are apparently limited to 301 characters?!?
+  if (line.length > 301) {
+    console.log("ERROR: line.length > 301!")
   }
   console.log("pos = " + line + "\n");
   //console.log(array);
